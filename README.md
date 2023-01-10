@@ -2,10 +2,9 @@
 
 ## I'm a Web developer!
 
-- 🔭 I’m currently sophomore at IGDTUW, CSE!!
+- :butterfly: I’m currently sophomore at IGDTUW, CSE!!
 - 🌱 Interested in working alongside like-minded people, enthusiastic about various developer tools. 
-- 👯 Looking forward to work on projects that make an impact.
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- :smile: Looking forward to work on projects that make an impact.
 - ⚡ Fun fact: Potterhead :sparkles:
 
 ### Connect with me:

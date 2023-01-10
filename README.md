@@ -40,6 +40,8 @@
 <br />
 <br />
 
+---
+
 <img align="left" alt="harshita-bfly's Github Stats" src="https://github-readme-stats.vercel.app/api?username=harshita-bfly&show_icons=true&hide_border=true"  />
 
 [website]: https://codeSTACKr.com

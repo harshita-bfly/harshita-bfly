@@ -1,12 +1,12 @@
-### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
+### Hola, I'm Harshita Verma 👋
 
-## I'm a Husband, Father, Developer, and Teacher!
+## I'm a Web developer!
 
-- 🔭 I’m currently working on a [VS Code Course][website]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 🔭 I’m currently sophomore at IGDTUW, CSE!!
+- 🌱 Interested in working alongside like-minded people, enthusiastic about various developer tools. 
+- 👯 Looking forward to work on projects that make an impact.
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Fun fact: Potterhead :sparkles:
 
 ### Connect with me:
 

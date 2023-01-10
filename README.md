@@ -1,17 +1,20 @@
 ### Hola, I'm Harshita Verma 👋
 
-## I'm a Web developer!
+## I'm a Web developer and a writer!
 
 - :butterfly: I’m currently sophomore at IGDTUW, CSE!!
 - 🌱 Interested in working alongside like-minded people, enthusiastic about various developer tools. 
 - :smile: Looking forward to work on projects that make an impact.
-- ⚡ Fun fact: Potterhead :sparkles:
+- ⚡ Fun fact: Writer and Potterhead :sparkles:
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="[https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg](https://twitter.com/harshita_bfly?t=ny7EVhdbBQaUKmNLArEA3Q&s=09)" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Twitter | Twitter" width="22px" src="https://twitter.com/harshita_bfly" />][twitter]
+[<img align="left" alt="LinkedIn | LinkedIn" width="22px" src="https://www.linkedin.com/in/harshita-bfly" />][linkedin]
+[<img align="left" alt="Instagram | Instagram" width="22px" src="https://www.instagram.com/harshita.bfly/" />][instagram]
+[<img align="left" alt="Instagram | Instagram" width="22px" src="https://www.instagram.com/vh_cunning/" />][instagram]
+
+
 
 <br />
 

@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **harshita.bfly@gmail.in**
 
-- ⚡ Fun fact **I am a Lepidopterist, Potterhead and early riser :) **
+- ⚡ Fun fact  **I am a Lepidopterist, Potterhead and early riser :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

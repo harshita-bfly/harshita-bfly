@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/harshita_bfly" target="blank"><img src="https://img.shields.io/twitter/follow/harshita_bfly?logo=twitter&style=for-the-badge" alt="harshita_bfly" /></a> </p>
 
-- 🔭 I’m currently working on **FIT COM**
+- 🔭 I’m currently sophomore at IGDTUW CSE
 
 - 🌱 I’m currently learning **APIs and AngularJS**
 

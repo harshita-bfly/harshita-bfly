@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/harshita_bfly" target="blank"><img src="https://img.shields.io/twitter/follow/harshita_bfly?logo=twitter&style=for-the-badge" alt="harshita_bfly" /></a> </p>
 
-- 🔭 I’m currently sophomore at IGDTUW CSE
+- 🔭 I’m currently sophomore at **IGDTUW CSE**
 
-- 🌱 I’m currently learning **APIs and AngularJS**
+- 🌱 I’m currently learning **AI ML**
 
 - 💬 Ask me about **Web Development, Design and Public Speaking**
 
 - 📫 How to reach me **harshita.bfly@gmail.in**
 
-- ⚡ Fun fact **I am a Lepidopterist and early riser ;)**
+- ⚡ Fun fact **I am a Lepidopterist, Potterhead and early riser :) **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

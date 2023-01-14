@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshita-bfly&label=Profile%20views&color=0e75b6&style=flat" alt="harshita-bfly" /> </p>
 
-<p align="left"> <a href="https://twitter.com/harshita_bfly" target="blank"><img src="https://img.shields.io/twitter/follow/harshita_bfly?logo=twitter&style=for-the-badge" alt="harshita_bfly" /></a> </p>
+<p align="left"> <a href="https://twitter.com/harshita_bfly" target="blank"><img src="C:\Users\Lenovo\Downloads\ai_image.jpeg" alt="harshita_bfly" /></a> </p>
 
-- 🔭 I’m currently sophomore in **CSE** at **IGDTUW**
+- :star: I’m currently sophomore in **CSE** at **IGDTUW**
 
 - 🌱 I’m currently learning **AI-ML**
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **harshita.bfly@gmail.in**
 
-- ⚡ Fun fact : **I am a Potterhead, early riser and love journaling my ideas in my diary** ::star::
+- ⚡ Fun fact : **I am a Potterhead, early riser and love journaling my ideas in my diary**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

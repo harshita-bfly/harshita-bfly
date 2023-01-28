@@ -1,7 +1,7 @@
 ![MasterHead](https://pbs.twimg.com/profile_banners/1520056527465639936/1657176091/1080x360)
 <h1 align="center">BONJOUR 😃</h1>
 <h1 align="center">I'm Harshita Verma</h1>
-<h3 align="center">Web Developer || Tech enthusiast || Writer</h3>
+<h3 align="center">Web Developer || Coder || Writer</h3>
 <img align="right" alt="image" width="400" src="https://wallpaperaccess.com/full/4767780.jpg">
 
 

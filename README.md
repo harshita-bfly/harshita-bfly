@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **AI-ML**.
 
-- 💬 Ask me about **Web Development, Design and Content writing**.
+- 💬 Ask me about **Web Development and Content writing**.
 
 - 📫 How to reach me **harshita.bfly@gmail.com**
 

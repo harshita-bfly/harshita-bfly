@@ -9,15 +9,15 @@
 
 <p align="left"> <a href="https://twitter.com/harshita_bfly" target="blank"><img src="https://img.shields.io/twitter/follow/harshita_bfly?logo=twitter&style=for-the-badge" alt="harshita_bfly" /></a> </p>
 
-- :star: I’m currently sophomore in **CSE** at **IGDTUW**.
+- :star: I’m sophomore at **IGDTUW** in **CSE**.
 
 - 🌱 I’m currently learning **AI-ML**.
 
-- 💬 Ask me about **Web Development, Design and Public Speaking**.
+- 💬 Ask me about **Web Development, Design and Content writing**.
 
-- 📫 How to reach me **harshita.bfly@gmail.in**
+- 📫 How to reach me **harshita.bfly@gmail.com**
 
-- ⚡ Fun fact : **I am a Potterhead, early riser and love journaling my ideas in my diary**.
+- ⚡ Fun fact : **I am a Potterhead, early riser and like journaling my ideas in my diary**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **harshita.bfly@gmail.com**
 
-- ⚡ Fun fact : **I am a Potterhead, early riser and like journaling my ideas in my diary**.
+- ⚡ Fun fact : **I am a Potterhead, early bird and like journaling my ideas in my diary**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -11,7 +11,7 @@
 
 - :star: I’m sophomore at **IGDTUW** in **CSE**.
 
-- 🌱 I’m currently learning **AI-ML**.
+- 🌱 I’m currently exploring **AI-ML** and **Data visualization**.
 
 - 💬 Ask me about **Web Development, Python and Content writing**.
 

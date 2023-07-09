@@ -13,11 +13,11 @@
 
 - 🌱 I’m currently exploring **AI-ML** and **Data visualization**.
 
-- 💬 Ask me about **Web Development, Python and Content writing**.
+- 💬 Ask me about **Web Development and Python**.
 
 - 📫 How to reach me **harshita.bfly@gmail.com**
 
-- ⚡ Fun fact : **I am a Potterhead, early bird and like journaling my ideas in my diary**.
+<!-- ⚡ Fun fact: **I am a Potterhead, an early bird** -->.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

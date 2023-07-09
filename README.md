@@ -1,29 +1,29 @@
-![MasterHead](https://pbs.twimg.com/profile_banners/1520056527465639936/1657176091/1080x360)
-<h1 align="center">Bonjour 😃</h1>
-<h1 align="center">I'm Harshita Verma</h1>
+<!--[MasterHead](https://pbs.twimg.com/profile_banners/1520056527465639936/1657176091/1080x360)-->
+<!--h1 align="center">Bonjour 😃</h1-->
+<h1 align="center">Hello. I'm Harshita Verma</h1>
 <h3 align="center"> Python || Web Development || ML</h3>
 <!-- <img align="right" alt="image" width="400" src="https://wallpaperaccess.com/full/4767780.jpg">
  -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshita-bfly&label=Profile%20views&color=0e75b6&style=flat" alt="harshita-bfly" /> </p>
 
-<p align="left"> <a href="https://twitter.com/harshita_bfly" target="blank"><img src="https://img.shields.io/twitter/follow/harshita_bfly?logo=twitter&style=for-the-badge" alt="harshita_bfly" /></a> </p>
+<!--p align="left"> <a href="https://twitter.com/harshita_bfly" target="blank"><img src="https://img.shields.io/twitter/follow/harshita_bfly?logo=twitter&style=for-the-badge" alt="harshita_bfly" /></a> </p--> 
 
-- :star: I’m sophomore at **IGDTUW** in **CSE**.
+- :star: I’m a sophomore at IGDTUW in CSE.
 
-- 🌱 I’m currently exploring **AI-ML** and **Data visualization**.
+- 🌱 I’m currently exploring AI-ML and Data visualization.
 
-- 💬 Ask me about **Web Development and Python**.
+- 💬 Ask me about Web Development and Python.
 
-- 📫 How to reach me **harshita.bfly@gmail.com**
+- 📫 How to reach me harshita.bfly@gmail.com
 
-<!-- ⚡ Fun fact: **I am a Potterhead, an early bird** -->.
+- ⚡ Fun fact: I am a Potterhead.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/harshita_bfly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harshita_bfly" height="30" width="40" /></a>
+<!--h3 align="left">Connect with me:</h3>
+<p align="left"-->
+<!-- <a href="https://twitter.com/harshita_bfly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harshita_bfly" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/harshita-bfly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshita-bfly" height="30" width="40" /></a>
-<a href="https://instagram.com/harshita.bfly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshita.bfly" height="30" width="40" /></a>
+<a href="https://instagram.com/harshita.bfly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshita.bfly" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

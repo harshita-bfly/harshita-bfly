@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently exploring AI-ML.
 
-- 💬 Ask me about Python.
+- 💬 Ask me about C++, Python.
 
 - 📫 How to reach me harshita.bfly@gmail.com
 

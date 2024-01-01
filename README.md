@@ -15,7 +15,5 @@
 
 - 💬 Ask me about C++, Python, SQL, C#.
 
-- 📫 How to reach me harshita.bfly@gmail.com
-
 - ⚡ Fun fact: I am a Potterhead and a writer!
 

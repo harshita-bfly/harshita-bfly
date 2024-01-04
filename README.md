@@ -5,9 +5,11 @@
 <!-- <img align="right" alt="image" width="400" src="https://wallpaperaccess.com/full/4767780.jpg">
  -->
 
-<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshita-bfly&label=Profile%20views&color=0e75b6&style=flat" alt="harshita-bfly" /> </p>-->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshita-bfly&label=Profile%20views&color=0e75b6&style=flat" alt="harshita-bfly" /> </p>
 
 <!--p align="left"> <a href="https://twitter.com/harshita_bfly" target="blank"><img src="https://img.shields.io/twitter/follow/harshita_bfly?logo=twitter&style=for-the-badge" alt="harshita_bfly" /></a> </p--> 
+
+<p align="right"> <img src = "https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" alt = "hello" /> </p>
 
 <!--- :star: I’m a sophomore at IGDTUW in CSE.-->
 

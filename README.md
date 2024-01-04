@@ -10,7 +10,8 @@
 
 <!--p align="left"> <a href="https://twitter.com/harshita_bfly" target="blank"><img src="https://img.shields.io/twitter/follow/harshita_bfly?logo=twitter&style=for-the-badge" alt="harshita_bfly" /></a> </p--> 
 
- <img align = "right" width = "400" src = "https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" alt = "hello" />
+<!-- <img align = "right" width = "400" src = "https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" alt = "hello" />-->
+  <img align = "right" width = "400" src = "https://github.com/harshita-bfly/harshita-bfly/assets/100403649/38606f50-7c19-43bd-a579-40dd4a5125b1" alt = "hello" />
 
  ## 💫 About Me:
 - :star: I’m a Pre-final year student at IGDTUW in CSE.
@@ -51,8 +52,9 @@
 
 
 
+<!--![octocat-1704397896407](https://github.com/harshita-bfly/harshita-bfly/assets/100403649/38606f50-7c19-43bd-a579-40dd4a5125b1)-->
 
-
+ 
 
   
 

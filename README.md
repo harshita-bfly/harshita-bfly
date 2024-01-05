@@ -40,12 +40,12 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=harshita-bfly&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
  -->
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 <!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=harshita-bfly&bg_color=0d0d0d&color=f8f7f8&line=ffffff&point=e9d607&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
 
-<!-- <img  align = "center" src = "https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt = "hello" /> -->
+ <img   width = "800" align = "center" src = "https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt = "Bye-Bye" /> 
 
 
  

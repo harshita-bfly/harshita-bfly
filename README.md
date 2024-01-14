@@ -16,7 +16,7 @@
  ## 💫 About Me:
 - :star: I’m a pre-final year student at IGDTUW in CSE.
 
-- 🌱 I’m currently exploring AI-ML and speech technology.
+- 🌱 I’m exploring AI-ML and speech technology.
 
 - 💬 Ask me about C++, Python, SQL, C#.
 

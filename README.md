@@ -20,7 +20,7 @@
 
 - 💬 Ask me about C++, Python, SQL, C#.
 
-- ⚡ Fun fact: I am a Potterhead and a writer!
+- ⚡ Fun fact: I am a Potterhead and a writer:)
 
 
 ## 🌐 Connect with me:

@@ -14,11 +14,11 @@
   <img align = "right" width = "400" src = "https://github.com/harshita-bfly/harshita-bfly/assets/100403649/38606f50-7c19-43bd-a579-40dd4a5125b1" alt = "hello" />
 
  ## 💫 About Me:
-- :star: I’m a pre-final year student at IGDTUW in CSE.
+- :star: I’m a final year student at IGDTUW pursuing CSE.
 
 - 🌱 I’m exploring AI-ML and speech technology.
 
-- 💬 Ask me about C++, Python, SQL, C#.
+- 💬 Ask me about C++, Python, SQL, Javascript.
 
 - ⚡ Fun fact: I am a Potterhead and writer:)
 
